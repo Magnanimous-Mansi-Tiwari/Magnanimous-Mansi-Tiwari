@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Magnanimous-Mansi-Tiwari
+- 👋 Hi, I’m Mansi Tiwari
 - 👀 I’m Coding Enthusiast and Aspiring Full Stack Developer.
 - 🌱 Apart from being a Mechanical Engineer, I have found my great interest in software Engineering. 
 - 💞️ I am always excited to explore new ideas alongwith passionate poeple share same energy as me.
